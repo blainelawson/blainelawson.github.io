@@ -1,11 +1,11 @@
 # Site settings
-author: Blaine Lawson
-title: 
+author: Blaine M. Lawson
+title: There Can Be Only One: Blaine
 header-img: img/home-bg.png
 email: blaine.lawson@gmail.com
-copyright_name: Blaine Lawson
+copyright_name: Blaine M. Lawson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Confidently inconfident
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blainelawson
