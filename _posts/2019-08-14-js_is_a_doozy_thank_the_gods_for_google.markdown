@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Is a Doozy. Thank the Gods for Google."
-date:       2019-08-14 14:43:14 +0000
+date:       2019-08-14 10:43:15 -0400
 permalink:  js_is_a_doozy_thank_the_gods_for_google
 ---
 
