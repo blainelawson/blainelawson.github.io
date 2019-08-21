@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "EntePCD Calendar: A Lesson on Organization and Front-End Consistency"
-date:       2019-04-09 19:21:10 +0000
+date:       2019-04-09 15:21:11 -0400
 permalink:  entepcd_calendar_a_lesson_on_organization_and_front-end_consistency
 ---
 
