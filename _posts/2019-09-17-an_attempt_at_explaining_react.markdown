@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "An Attempt at Explaining React"
-date:       2019-09-17 15:46:48 +0000
+date:       2019-09-17 11:46:49 -0400
 permalink:  an_attempt_at_explaining_react
 ---
 
